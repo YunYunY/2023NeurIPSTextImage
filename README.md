@@ -95,8 +95,6 @@
 
 [Three Towers: Flexible Contrastive Learning with Pretrained Image Models](https://openreview.net/pdf?id=LSYQB4CwD3)
 
-[LaFTer: Label-Free Tuning of Zero-shot Classifier using Language and Unlabeled Image Collections](https://openreview.net/pdf?id=elPtHcfjpH)
-
 [An Inverse Scaling Law for CLIP Training](https://openreview.net/pdf?id=LMU2RNwdh2)
 
 [Geodesic Multi-Modal Mixup for Robust Fine-Tuning](https://openreview.net/pdf?id=iAAXq60Bw1)
