@@ -48,7 +48,7 @@
 ### text-to-image generation
 [ImageReward: Learning and Evaluating Human Preferences for Text-to-Image Generation](https://openreview.net/pdf?id=JVzeOYEx6d)
 
-[Subject-driven Text-to-Image Generation via Apprenticeship Learning](https://openreview.net/pdf?id=JVzeOYEx6d)
+[Subject-driven Text-to-Image Generation via Apprenticeship Learning](https://arxiv.org/pdf/2304.00186.pdf)
 
 [CycleNet: Rethinking Cycle Consistency in Text-Guided Diffusion for Image Manipulation](https://openreview.net/pdf?id=z9d9DsjAPH)
 
