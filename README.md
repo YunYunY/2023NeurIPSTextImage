@@ -64,7 +64,7 @@
 
 [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://openreview.net/pdf?id=jUdZCcoOu3)
 
-[https://openreview.net/pdf?id=RNVwm4BzXO](https://openreview.net/pdf?id=VgQw8zXrH8)
+[Uni-ControlNet: All-in-One Control to Text-to-Image Diffusion Models](https://openreview.net/pdf?id=VgQw8zXrH8)
 
 [Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis](https://openreview.net/pdf?id=4ULTSBBY4U)
 
