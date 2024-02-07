@@ -13,7 +13,7 @@
 
 [The CLIP Model is Secretly an Image-to-Prompt Converter](https://openreview.net/pdf?id=lHa7gFbmvS)
 
-[https://openreview.net/pdf?id=BsZNWXD3a1](https://openreview.net/pdf?id=BsZNWXD3a1)
+[Optimizing Prompts for Text-to-Image Generation](https://openreview.net/pdf?id=BsZNWXD3a1)
 
 [Dynamic Prompt Learning: Addressing Cross-Attention Leakage for Text-Based Image Editing](https://openreview.net/pdf?id=5UXXhVI08r)
 
